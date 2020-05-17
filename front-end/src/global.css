@@ -107,8 +107,17 @@ section.container p {
 
 section.container textarea,
 section.container input,
+section.container select,
 section.container p {
     margin-top: 16px;
+}
+
+p.error {
+    color: #e02041;
+}
+
+p.result {
+    color: rgb(83, 160, 83);
 }
 
 section.row {
