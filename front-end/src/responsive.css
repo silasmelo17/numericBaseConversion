@@ -1,0 +1,31 @@
+:root {
+    --small-size: 8px;
+    --middle-size: 12px;
+    --large-size: 16px;
+    --very-large-size: 24px;
+
+    --light: 400;
+    --normal: 500;
+}
+
+@media screen and ( max-width: 800px ) {
+    
+    :root {
+        --small-size: 6px;
+        --middle-size: 10px;
+        --large-size: 12px;
+        --very-large-size: 18px;
+
+        --light: 300;
+        --normal: 400;
+    }
+
+    * {
+        letter-spacing: 1px;
+    }
+
+    section.container {
+        width: calc( 100% - 2*var(--middle-size) );
+    }
+
+}

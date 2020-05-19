@@ -1,10 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { stringToArray, conversionToDecimal, decimalToBase, validateNumberToConvert } from './conversion'
 
 import './global.css'
+import './responsive.css'
 
 function App() {
-  const [ result, setResult ] = useState('Initialize')
+  const [ result, setResult ] = useState('')
   const [ fromBase, setFromBase ] = useState('binary')
   const [ toBase, setToBase ] = useState( 'decimal' )
   const [ userInput, setUserInput ] = useState('')
@@ -66,7 +67,7 @@ function App() {
             onKeyPress={ handleValidateUserInput }
           ></textarea>
           
-          <p className='result' >{result}</p>
+          <p>{result}</p>
           
           <input 
             type='button' 
