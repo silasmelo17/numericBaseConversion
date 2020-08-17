@@ -43,7 +43,6 @@ function App() {
               <option value='octagonal' >Octagonal</option>
               <option value='decimal' >Decimal</option>
               <option value='hexadecimal' >Hexadecimal</option>
-              <option value='ascii'>ASCII</option>
             </select>
 
             <span>PARA</span>
@@ -56,7 +55,6 @@ function App() {
               <option value='octagonal' >Octagonal</option>
               <option value='decimal' >Decimal</option>
               <option value='hexadecimal' >Hexadecimal</option>
-              <option value='ascii'>ASCII</option>
             </select>
           </section> 
 
