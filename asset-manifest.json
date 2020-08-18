@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/numericBaseConversion/static/css/main.9fe5bf3b.chunk.css",
-    "main.js": "/numericBaseConversion/static/js/main.60a76048.chunk.js",
-    "main.js.map": "/numericBaseConversion/static/js/main.60a76048.chunk.js.map",
-    "runtime-main.js": "/numericBaseConversion/static/js/runtime-main.bb827ac8.js",
-    "runtime-main.js.map": "/numericBaseConversion/static/js/runtime-main.bb827ac8.js.map",
-    "static/js/2.84cbe5ed.chunk.js": "/numericBaseConversion/static/js/2.84cbe5ed.chunk.js",
-    "static/js/2.84cbe5ed.chunk.js.map": "/numericBaseConversion/static/js/2.84cbe5ed.chunk.js.map",
-    "index.html": "/numericBaseConversion/index.html",
-    "precache-manifest.40dbf3681362a13903a81b754b1bad6b.js": "/numericBaseConversion/precache-manifest.40dbf3681362a13903a81b754b1bad6b.js",
-    "service-worker.js": "/numericBaseConversion/service-worker.js",
-    "static/css/main.9fe5bf3b.chunk.css.map": "/numericBaseConversion/static/css/main.9fe5bf3b.chunk.css.map",
-    "static/js/2.84cbe5ed.chunk.js.LICENSE.txt": "/numericBaseConversion/static/js/2.84cbe5ed.chunk.js.LICENSE.txt"
+    "main.css": "/numberBaseConversion/static/css/main.7f83786e.chunk.css",
+    "main.js": "/numberBaseConversion/static/js/main.b4699a92.chunk.js",
+    "main.js.map": "/numberBaseConversion/static/js/main.b4699a92.chunk.js.map",
+    "runtime-main.js": "/numberBaseConversion/static/js/runtime-main.9a01a294.js",
+    "runtime-main.js.map": "/numberBaseConversion/static/js/runtime-main.9a01a294.js.map",
+    "static/js/2.84cbe5ed.chunk.js": "/numberBaseConversion/static/js/2.84cbe5ed.chunk.js",
+    "static/js/2.84cbe5ed.chunk.js.map": "/numberBaseConversion/static/js/2.84cbe5ed.chunk.js.map",
+    "index.html": "/numberBaseConversion/index.html",
+    "precache-manifest.2183ba8cf25264cef16636229a4340a1.js": "/numberBaseConversion/precache-manifest.2183ba8cf25264cef16636229a4340a1.js",
+    "service-worker.js": "/numberBaseConversion/service-worker.js",
+    "static/css/main.7f83786e.chunk.css.map": "/numberBaseConversion/static/css/main.7f83786e.chunk.css.map",
+    "static/js/2.84cbe5ed.chunk.js.LICENSE.txt": "/numberBaseConversion/static/js/2.84cbe5ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb827ac8.js",
+    "static/js/runtime-main.9a01a294.js",
     "static/js/2.84cbe5ed.chunk.js",
-    "static/css/main.9fe5bf3b.chunk.css",
-    "static/js/main.60a76048.chunk.js"
+    "static/css/main.7f83786e.chunk.css",
+    "static/js/main.b4699a92.chunk.js"
   ]
 }
