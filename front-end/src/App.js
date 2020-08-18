@@ -39,7 +39,7 @@ function App() {
   )
 
   const CreateCurve = () => (
-    <svg class='curve'>
+    <svg className='curve'>
       <defs>
         <clipPath id='curve' clipPathUnits="objectBoundingBox" >
           <path d='M 1 0 L 0 0 L 0 0.5 Q .15 .45 .3 .475 Q .45 .5 .55 .475 Q .7 .45 .8 .475 Q .9 .5 1 .5 Z' />
