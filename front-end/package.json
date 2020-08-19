@@ -1,7 +1,6 @@
 {
   "name": "front-end",
   "version": "0.1.0",
-  "homepage": "http://silasmelo17.github.io/numberBaseConversion",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
